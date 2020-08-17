@@ -1,0 +1,1 @@
+# SZG_VBA_HW_MultiYearStockData
